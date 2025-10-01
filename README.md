@@ -1,33 +1,55 @@
-# Hey there 👋, I’m Nikhil Kumar
-
-### Know Me Better  
-- 📍 From Amaravati, India  
-- 🎓 B.Tech in Cyber Security & CS @ SRM University AP (2027)  
-- 💡 Interests: Web Development, IoT, AI, Cybersecurity  
-- 🏗️ Working on projects in full-stack web, IoT, ML & wireless comms  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
+<h3 align="center">B.Tech in Cyber Security & Computer Science @ SRM University AP (2027)</h3>
 
 ---
 
-### 🧰 Languages & Tools  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+### 👨‍💻 About Me
+- 🌱 Currently exploring **IoT & Wireless Communication Research**  
+- 💻 Skilled in **Web Development, Cybersecurity, AI & DSA**  
+- 🔨 Built projects like:  
+  - 📊 **Real-Time Stock Market Visualizer**  
+  - 🌍 **GeoLocation Finder App**  
+  - 💍 **WedPL – Wedding Planner Website**  
+  - 📜 **RuleBook – Legal Document Query System**  
+- 🎯 Goal: Publish research & file patents in **IoT and Cybersecurity**  
+- 📫 Reach me at **nikhilkumar20aug@gmail.com**  
 
 ---
 
-### 📊 My GitHub Stats  
-![Nikhil’s GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilkumar1920&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumar1920&layout=compact&theme=radical)
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mysql,php,git,linux,wordpress" />
+</p>
 
 ---
 
-### ✨ Connect with Me  
-- 📫 Email: nikhilkumar20aug@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/nikhil-kumar-670839291](https://www.linkedin.com/in/nikhil-kumar-670839291)  
-- 🌐 Portfolio / Website: *(if you have one, put link here)*  
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkumar1920&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumar1920&layout=compact&theme=radical" alt="languages" height="180"/>
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nikhilkumar1920&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/nikhil-kumar-670839291" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nikhilkumar1920" target="blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:nikhilkumar20aug@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
